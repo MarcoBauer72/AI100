@@ -1,0 +1,40 @@
+----- TEXT ANALYTICS -----
+https://portal.azure.com  ->  Create a resource -> Text Analytics
+kasolutiotextanalytics.cognitiveservices.azure.com
+2b18c13526b143e0a30d5c972f6b6400
+
+----- SPEECH ------
+
+
+----- VISION API ------
+Vision API
+
+
+
+----- FACE RECOGNITION -----
+https://portal.azure.com  ->  Create a resource -> Face
+https://kasolutionfaceapi.cognitiveservices.azure.com/face/v1.0
+a47733a22d0a434488b2cf1a934edbea
+
+
+----- COMPUTER VISION ------
+
+
+----- BOT (Qna) -----
+
+https://github.com/MarcoBauer72/AI
+
+Para usar no Python:
+----- Marco ------
+https://raw.githubusercontent.com/marcobauer72/AI/master/MFWB.jpg
+https://raw.githubusercontent.com/marcobauer72/AI/master/MarcoB.jpg
+https://raw.githubusercontent.com/marcobauer72/AI/master/MB-GREEN.jpg
+
+
+
+----- Satya ------
+https://raw.githubusercontent.com/marcobauer72/AI/master/Satya.jpg
+
+
+
+
